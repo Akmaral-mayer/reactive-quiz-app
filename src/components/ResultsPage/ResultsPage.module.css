@@ -1,0 +1,44 @@
+.resultsPageWrap {
+    font-size: 1rem;
+    margin: 2rem 1rem 0;
+    text-align: center;
+}
+
+.resultsPageContent {
+    font-size: 1rem;
+}
+
+@media (min-width: 600px) {
+    .resultsPageContent {
+        font-size: 1.4rem;
+    }
+}
+
+@media (min-width: 900px) {
+    .resultsPageContent {
+        font-size: 1.9rem;
+    }
+}
+
+.resultsPageTextSmall {
+    font-size: 1rem;
+}
+
+.resultsPageTextLarge {
+    background: rgba(0, 0, 0, 0.05);
+    font-size: 1.5rem;
+    margin: 0;
+}
+
+@media (min-width: 600px) {
+    .resultsPageTextLarge {
+        font-size: 2rem;
+    }
+}
+
+@media (min-width: 900px) {
+    .resultsPageTextLarge {
+        font-size: 3rem;
+    }
+
+}
