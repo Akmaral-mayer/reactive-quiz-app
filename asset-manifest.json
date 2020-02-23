@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactive-quiz-app/static/css/main.39016fc3.chunk.css",
+    "main.js": "/reactive-quiz-app/static/js/main.40edceff.chunk.js",
+    "main.js.map": "/reactive-quiz-app/static/js/main.40edceff.chunk.js.map",
+    "runtime-main.js": "/reactive-quiz-app/static/js/runtime-main.3404f1a1.js",
+    "runtime-main.js.map": "/reactive-quiz-app/static/js/runtime-main.3404f1a1.js.map",
+    "static/js/2.22411106.chunk.js": "/reactive-quiz-app/static/js/2.22411106.chunk.js",
+    "static/js/2.22411106.chunk.js.map": "/reactive-quiz-app/static/js/2.22411106.chunk.js.map",
+    "index.html": "/reactive-quiz-app/index.html",
+    "precache-manifest.a28ca61b5e5387cabe2fb905df64cdc8.js": "/reactive-quiz-app/precache-manifest.a28ca61b5e5387cabe2fb905df64cdc8.js",
+    "service-worker.js": "/reactive-quiz-app/service-worker.js",
+    "static/css/main.39016fc3.chunk.css.map": "/reactive-quiz-app/static/css/main.39016fc3.chunk.css.map",
+    "static/js/2.22411106.chunk.js.LICENSE.txt": "/reactive-quiz-app/static/js/2.22411106.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3404f1a1.js",
+    "static/js/2.22411106.chunk.js",
+    "static/css/main.39016fc3.chunk.css",
+    "static/js/main.40edceff.chunk.js"
+  ]
+}
